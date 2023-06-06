@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@playwright/test": "^1.34.3",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.1",
+    "random-number": "^0.0.9"
+  },
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor-html-reporter-2": "^1.0.4"
+  },
+  "scripts": {}
+}
